@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "tenneco": "https://www.tenneco.com/#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "AutoPart": {
+      "@id": "tenneco:AutoPart",
+      "@type": "@id",
+      "rdfs:comment": "An automotive component or part"
+    },
+    "VehicleFitment": {
+      "@id": "tenneco:VehicleFitment",
+      "@type": "@id",
+      "rdfs:comment": "Vehicle application fitment data for a part"
+    },
+    "AftermarketBrand": {
+      "@id": "tenneco:AftermarketBrand",
+      "@type": "@id",
+      "rdfs:comment": "An aftermarket automotive brand under the DRiV portfolio"
+    },
+
+    "AutoPartsStore": "schema:AutoPartsStore",
+    "Product": "schema:Product",
+    "Organization": "schema:Organization",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "partNumber": {
+      "@id": "schema:productID",
+      "@type": "xsd:string"
+    },
+    "brand": {
+      "@id": "schema:brand",
+      "@type": "@id"
+    },
+    "manufacturer": {
+      "@id": "schema:manufacturer",
+      "@type": "@id"
+    },
+    "vehicleMake": {
+      "@id": "schema:vehicleConfiguration",
+      "@type": "xsd:string"
+    },
+    "vehicleModel": {
+      "@id": "schema:model",
+      "@type": "xsd:string"
+    },
+    "vehicleYear": {
+      "@id": "schema:vehicleModelDate",
+      "@type": "xsd:integer"
+    },
+    "category": {
+      "@id": "tenneco:productCategory",
+      "@type": "@vocab",
+      "@context": {
+        "Clean Air": "tenneco:CleanAir",
+        "Powertrain": "tenneco:Powertrain",
+        "Ride Performance": "tenneco:RidePerformance",
+        "Aftermarket": "tenneco:Aftermarket"
+      }
+    }
+  }
+}

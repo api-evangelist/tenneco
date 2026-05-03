@@ -1,0 +1,116 @@
+name: Tenneco Vocabulary
+description: >-
+  Core vocabulary and taxonomy for Tenneco, the global automotive component
+  manufacturer. Covers automotive systems, aftermarket concepts, vehicle
+  fitment, and Tenneco's product portfolio terminology.
+created: '2026-05-03'
+modified: '2026-05-03'
+terms:
+  - term: Clean Air
+    definition: >-
+      Tenneco's emissions control product segment. Manufactures exhaust systems,
+      catalytic converters, diesel particulate filters, and other emissions
+      reduction components for light vehicles, commercial trucks, and
+      off-highway applications.
+    tags:
+      - Product Segments
+      - Emissions Control
+
+  - term: Powertrain
+    definition: >-
+      Tenneco's engine components product segment. Manufactures pistons, piston
+      rings, bearings, cylinder liners, and fuel management components that
+      optimize engine performance across multiple fuel types.
+    tags:
+      - Product Segments
+      - Engine Components
+
+  - term: Ride Performance
+    definition: >-
+      Tenneco's safety and comfort systems product segment. Manufactures shock
+      absorbers, struts, springs, and chassis components under the Monroe and
+      other brands.
+    tags:
+      - Product Segments
+      - Chassis
+
+  - term: DRiV
+    definition: >-
+      Tenneco's global aftermarket business comprising more than 30 brands
+      including Monroe, Champion, Walker, Fel-Pro, MOOG, and others. DRiV
+      serves independent mechanics, dealers, distributors, and retailers.
+    tags:
+      - Aftermarket
+      - Business Segments
+
+  - term: Aftermarket
+    definition: >-
+      Replacement parts and services sold after the original vehicle sale.
+      Tenneco's DRiV division is a major global aftermarket supplier for
+      brake, chassis, exhaust, and engine parts.
+    tags:
+      - Business Segments
+      - Distribution
+
+  - term: OEM
+    definition: >-
+      Original Equipment Manufacturer. Tenneco supplies components directly
+      to vehicle manufacturers for inclusion in new vehicles. OEM supply is
+      separate from the DRiV aftermarket business.
+    tags:
+      - Business Segments
+      - Manufacturing
+
+  - term: Vehicle Fitment
+    definition: >-
+      The compatibility mapping between a specific part number and the vehicle
+      makes, models, and years it fits. Critical for aftermarket parts lookup
+      and catalog navigation.
+    tags:
+      - Parts Catalog
+      - Data
+
+  - term: ACES
+    definition: >-
+      Automotive Catalog Exchange Standard. Industry-standard XML format for
+      transmitting vehicle fitment data between suppliers and retailers in the
+      aftermarket parts ecosystem.
+    tags:
+      - Standards
+      - Parts Catalog
+
+  - term: PIES
+    definition: >-
+      Product Information Exchange Standard. Industry-standard XML format for
+      transmitting product attribute data (dimensions, weight, pricing) in the
+      aftermarket parts ecosystem.
+    tags:
+      - Standards
+      - Parts Catalog
+
+  - term: Catalytic Converter
+    definition: >-
+      An emissions control device in the exhaust system that converts toxic
+      combustion byproducts into less harmful compounds. Part of Tenneco's
+      Clean Air product segment.
+    tags:
+      - Products
+      - Emissions Control
+
+  - term: Shock Absorber
+    definition: >-
+      A hydraulic device that dampens vehicle oscillations to provide a
+      smooth ride. Sold under the Monroe brand in Tenneco's DRiV aftermarket
+      portfolio.
+    tags:
+      - Products
+      - Ride Performance
+
+  - term: Telematics
+    definition: >-
+      Remote vehicle diagnostics and tracking technology. Not a primary Tenneco
+      offering, but relevant to their commercial truck and off-highway segments
+      where fleet management integration matters.
+    tags:
+      - Digital
+      - Connected Vehicle
