@@ -39,6 +39,8 @@ apis:
       - type: Documentation
         url: https://www.driv.com/resources
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/tenneco
   - type: Website
     url: https://www.tenneco.com/
   - type: About
