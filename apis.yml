@@ -40,6 +40,8 @@ apis:
       - type: Documentation
         url: https://www.driv.com/resources
 common:
+  - type: DomainSecurity
+    url: security/tenneco-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/tenneco
   - type: Website
