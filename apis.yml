@@ -7,6 +7,18 @@ description: >-
   mechanics, distributors, and retailers with digital catalog and parts lookup
   capabilities.
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
 image: https://www.tenneco.com/wp-content/uploads/2021/10/tenneco-logo.png
 tags:
   - Aftermarket
