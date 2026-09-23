@@ -1,7 +1,9 @@
 ---
 title: Tenneco Announces Strategic Investment to Accelerate ...
 url: https://www.thecanadianpressnews.ca/globenewswire_press_releases/tenneco-announces-strategic-investment-to-accelerate-growth/article_9ada09dc-e262-5fcd-b062-fff445f8d613.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Tenneco" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: How Tenneco is navigating the agentic AI frontier in ...
 url: https://cpostrategy.media/blog/2026/05/01/how-tenneco-is-navigating-the-agentic-ai-frontier-in-procurement/
-date: '2026-05-25'
+published: '2026-05-01'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Tenneco" press release artificial intelligence'
 position: 4
 source: serpapi-google
