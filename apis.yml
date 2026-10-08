@@ -63,6 +63,12 @@ apis:
       - type: Documentation
         url: https://www.driv.com/resources
 common:
+  - type: Plans
+    url: plans/tenneco-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/tenneco-rate-limits.yml
+  - type: FinOps
+    url: finops/tenneco-finops.yml
   - type: DomainSecurity
     url: security/tenneco-domain-security.yml
   - type: LinkedIn
