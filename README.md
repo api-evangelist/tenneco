@@ -64,40 +64,113 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tenneco is a global manufacturer of automotive components and systems, including clean air (emissions control), powertrain, and ride performance systems for OEM and aftermarket markets. Through its DRiV aftermarket division, Tenneco serves mechanics, distributors, and retailers with digital catalog and parts lookup capabilities.
+Tenneco is a global manufacturer of automotive components and systems, including clean air, powertrain, and ride performance systems for OEM and aftermarket markets. Through its DRiV aftermarket division, Tenneco serves mechanics, distributors, and retailers with digital catalog and parts lookup capabilities.
 
-**Type:** company  
-**Website:** [https://www.tenneco.com/](https://www.tenneco.com/)
+**Areas:** Aftermarket · Automotive · Emissions Control · Manufacturing · Powertrain · Ride Performance · Fortune 500
 
-## Business Segments
+## Tenneco on APIs.io
 
-- **Clean Air** — Emissions control systems: exhaust, catalytic converters, diesel particulate filters
-- **Powertrain** — Engine components: pistons, bearings, cylinder liners, fuel management
-- **Performance Solutions** — Ride and safety systems in partnership with OEMs
-- **DRiV** — Aftermarket business with 30+ brands: Monroe, Champion, Walker, Fel-Pro, MOOG
+Everything profiled for Tenneco is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/tenneco/](https://apis.io/providers/tenneco/)** — or go straight to one of the APIs or properties below.
 
-## APIs
+### APIs (1)
 
-### DRiV Parts Catalog API
-DRiV provides digital parts catalog and vehicle fitment lookup capabilities for its portfolio of more than 30 aftermarket brands.
+- [DRiV Parts Catalog API](https://apis.io/apis/tenneco/driv-parts-catalog/) — DRiV, a Tenneco company, provides digital parts catalog and vehicle fitment lookup capabilities for its portfolio of more than 30 aftermarket brands…
 
-- **Website:** [https://www.driv.com/](https://www.driv.com/)
+### Published properties
 
-## JSON-LD
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-| Context | Description |
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Tenneco Context](https://apis.io/jsonld/tenneco/tenneco-context/)
+
+#### Vocabulary (1)
+
+The provider's domain terms, defined.
+
+- [Tenneco Vocabulary](https://apis.io/vocabularies/tenneco/tenneco-vocabulary/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Tenneco Domain Security](https://apis.io/security/tenneco/tenneco-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Tenneco Plans Pricing](https://apis.io/plans/tenneco/tenneco-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Tenneco Rate Limits](https://apis.io/rate-limits/tenneco/tenneco-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Tenneco Finops](https://apis.io/finops/tenneco/tenneco-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.tenneco.com/)
+
+## API Evangelist rating
+
+**Kin Score 13.1** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
 |---|---|
-| [tenneco-context.jsonld](json-ld/tenneco-context.jsonld) | JSON-LD context for automotive parts and fitment concepts |
+| Discoverability | 58.0 |
+| Contract quality | 14.7 |
+| Contract governance | 13.6 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 7.9 |
 
-## Vocabulary
+**Agent readiness 0.6** — human-only
 
-| Vocabulary | Description |
+| Agent-readiness dimension | Result |
 |---|---|
-| [tenneco-vocabulary.yml](vocabulary/tenneco-vocabulary.yml) | Automotive parts and aftermarket industry vocabulary |
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-## Links
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
 
-- **About:** [https://www.tenneco.com/about-us](https://www.tenneco.com/about-us)
-- **Newsroom:** [https://www.tenneco.com/news-and-features/newsroom](https://www.tenneco.com/news-and-features/newsroom)
-- **Solutions:** [https://www.tenneco.com/solutions](https://www.tenneco.com/solutions)
-- **DRiV:** [https://www.driv.com/](https://www.driv.com/)
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/tenneco/](https://apis.io/providers/tenneco/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Tenneco: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/tenneco/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
